@@ -1,6 +1,8 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
+import Colors from "../constants/colors";
+
 const Header = props => {
   return (
     <View style={styles.header}>
@@ -15,7 +17,7 @@ const styles = StyleSheet.create({
     height: 90,
     //account for status bar or notch on phone
     paddingTop: 36,
-    backgroundColor: "#f7287b",
+    backgroundColor: Colors.primary,
     alignItems: "center",
     justifyContent: "center"
   },
