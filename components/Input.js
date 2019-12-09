@@ -1,8 +1,8 @@
 import React from "react";
 import { TextInput, StyleSheet } from "react-native";
 
-const Input = propls => {
-  return <TextInput style={{ ...styles.input, ...propls.styles }} />;
+const Input = props => {
+  return <TextInput {...props} style={{ ...styles.input, ...props.styles }} />;
 };
 
 const styles = StyleSheet.create({
@@ -10,7 +10,8 @@ const styles = StyleSheet.create({
     height: 30,
     borderBottomColor: "grey",
     borderBottomWidth: 1,
-    marginVertical: 10
+    marginVertical: 10,
+    marginHorizontal: 5
   }
 });
 
