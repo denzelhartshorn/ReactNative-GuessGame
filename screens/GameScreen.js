@@ -36,7 +36,7 @@ const GameScreen = props => {
       (direction === "lower" && currentGuess < props.userChoice) ||
       (direction === "greater" && currentGuess > props.userChoice)
     ) {
-      Alert.alert("Don't lie!", "You know that this is wrong...", [
+      Alert.alert("Nice Try!", "Don't cheat...", [
         { text: "Sorry!", style: "cancel" }
       ]);
       return;
