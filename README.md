@@ -1,7 +1,8 @@
 # ReactNative-GuessGame
 
+ReactNative-GuessGame is a simple high/low guessing game built with React Native, Javasctipt and CSS that knows when you arent playing fair! It is compatable with Adiod and iOS and incorporates different screens, multiple components, styling, game mechanics, navigation and a custom button.
 
-A basic higher/ lower guessing game app I built with JavaScript and React-Native.  Pick a number and see how many rounds you can go against the computer, but dont try and cheat!  
+Pick a number and see how many rounds you can go, but dont try and cheat! 
 
 To Use:
 
