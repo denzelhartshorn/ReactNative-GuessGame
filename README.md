@@ -10,7 +10,10 @@ npm i
 
 npm start
 
+Start Screen - Pick a Number
 ![IMG_2603](https://user-images.githubusercontent.com/50594925/89113026-4d59e380-d420-11ea-8dd6-449e8e530339.PNG)
 ![IMG_2604](https://user-images.githubusercontent.com/50594925/89113027-4fbc3d80-d420-11ea-92b3-b3a04e6a6ab1.PNG)
+Nice Try .. added a pop up button function if the user does not select proper higher/lower 
 ![IMG_2605](https://user-images.githubusercontent.com/50594925/89113028-5054d400-d420-11ea-8b5f-d5f7f42c3391.PNG)
+Game Over Screen, Thanks for playing
 ![IMG_2609](https://user-images.githubusercontent.com/50594925/89113029-521e9780-d420-11ea-99ef-bc548cb80013.PNG)
