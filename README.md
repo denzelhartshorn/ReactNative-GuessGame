@@ -4,7 +4,7 @@ ReactNative-GuessGame is a mobile app that is a simple high/low guessing game bu
 
 Pick a number and see how many rounds you can go, but dont try and cheat! 
 
-To Play:
+How To Play:
 
 download expoCLI and access link
 
